@@ -96,3 +96,20 @@ A total of 25 business questions were solved, covering:
 This project helped apply SQL concepts to a real-world-style business dataset and convert raw sales data into meaningful business insights.
 
 It demonstrates practical skills in data analysis, SQL querying, aggregation, subqueries, and window functions.
+
+## SQL Query Results
+
+### 1. Overall Business Performance
+![Overall Performance](screenshots/Q1_Overall_Performance.png)
+
+### 2. City-wise Sales Performance
+![City Sales](screenshots/Q2_City_Sales.png)
+
+### 3. Product Line Performance
+![Product Performance](screenshots/Q3_Product_Performance.png)
+
+### 4. Monthly Sales Analysis
+![Monthly Sales](screenshots/Q8_Monthly_Sales.png)
+
+### 5. Final City-wise Business Summary
+![City Summary](screenshots/Q25_City_Summary.png)
