@@ -113,3 +113,30 @@ It demonstrates practical skills in data analysis, SQL querying, aggregation, su
 
 ### 5. Final City-wise Business Summary
 ![City Summary](screenshots/Q25_City_Summary.png)
+
+
+## Excel Dashboard
+
+Created an interactive Supermarket Sales Dashboard using Microsoft Excel.
+
+### Dashboard Features
+- Total Revenue, Total Transactions, Total Quantity Sold and Average Customer Rating KPI cards.
+- City-wise Revenue Analysis.
+- Product Line Revenue Analysis.
+- Monthly Sales Trend.
+- Payment Method Analysis.
+- Customer Type Revenue Analysis.
+- Hourly Sales Revenue Analysis.
+- Interactive slicers for City, Gender, Customer Type, Product Line, Payment and Branch.
+
+### Tools Used
+- MySQL
+- Microsoft Excel
+- PivotTables
+- PivotCharts
+- Slicers
+
+### Project Files
+- `Walmart_Sales_Analysis.sql` – SQL business analysis queries.
+- `Supermarket_Sales_Dashboard.xlsx` – Interactive Excel dashboard.
+- `screenshots/` – Project screenshots.
